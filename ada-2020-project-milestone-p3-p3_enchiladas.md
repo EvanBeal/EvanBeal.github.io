@@ -12,3 +12,9 @@ subtitle: Analysis of Tesco and socio-economic data of Londoners
 
 #### How richness is linked to diversity of food consumption and ethnicity?
 {% include simple_rich_hit_hethn.html %}
+
+The richer you are the less diverse you eat? Let us doubt about it.
+This may have something to do with the representativeness of the Tesco data. Indeed, they may be the leader for groceries in UK, they still don't have the food market monopoly.
+
+#### Food/drink consumption across London
+
