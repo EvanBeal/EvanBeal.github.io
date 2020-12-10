@@ -19,3 +19,5 @@ This may have something to do with the **representativeness** of the Tesco data.
 #### Food consumption in London
 {% include map_food.html %}
 
+#### Drink consumption in London
+{% include map_drink.html %}
