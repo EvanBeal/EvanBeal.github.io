@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Is your Ethnicity reflected in your Food Consumption ?
+cover-img: "/assets/img/fish_chips.jpg"
 subtitle: Analysis of Tesco and socio-economic data of Londoners
 ---
 
