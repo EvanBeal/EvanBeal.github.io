@@ -21,3 +21,9 @@ This may have something to do with the **representativeness** of the Tesco data.
 
 #### Drink consumption in London
 {% include map_drink.html %}
+
+#### Ethnic groups in London
+{% include map_ethnicity.html %}
+
+#### Socio-economic factors
+{% include map_socio_eco.html %}
