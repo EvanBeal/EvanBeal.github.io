@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Is your Ethnicity reflected in your Food Consumption ?
+title: Is your Ethnicity reflected in your Food Consumption?
 cover-img: "/assets/img/fish_chips.jpg"
 subtitle: Analysis of Tesco and socio-economic data of Londoners
 ---
@@ -10,5 +10,5 @@ subtitle: Analysis of Tesco and socio-economic data of Londoners
 - To which extent is the ethnic diversity responsible for the food consumption diversity of some aliment categories? 
 - Can we attribute particular food habits to specific ethnic groups?
 
-#### How richness is linked to diversity of food consumption and ethnicity ?
+#### How richness is linked to diversity of food consumption and ethnicity?
 {% include simple_rich_hit_hethn.html %}
