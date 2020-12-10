@@ -11,4 +11,4 @@ subtitle: Analysis of Tesco and socio-economic data of Londoners
 - Can we attribute particular food habits to specific ethnic groups?
 
 #### How richness is linked to diversity in food consumption and in ethnicity ?
-{% include /assets/img/rich_hit_hethn.html %}
+{% include rich_hit_hethn.html %}
