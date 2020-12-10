@@ -17,5 +17,5 @@ The richer you are the less diverse you eat? Let us doubt about it.
 This may have something to do with the **representativeness** of the Tesco data. Indeed, they may be the leader for groceries in UK, they still don't have the food market monopoly.
 
 #### Food/drink consumption across London
-{% include map_food4.html %}
+{% include map_food.html %}
 
