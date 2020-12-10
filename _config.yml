@@ -17,6 +17,7 @@ author: Evan Beal, Eric Bergkvist & Maxime Delitroz
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Story: "ada-2020-project-milestone-p3-p3_enchiladas"
   About Us: "aboutus"
   Resources:
     - Tesco paper: "https://www.nature.com/articles/s41597-020-0397-7"
@@ -85,10 +86,10 @@ round-avatar: true
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
